@@ -10,3 +10,8 @@
     - knob ?
 - WS2812 ?
     - PWM ?
+
+- LED incidation ?
+  - for power
+  - for ionizer
+  - for fan 
